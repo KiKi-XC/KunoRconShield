@@ -1,7 +1,6 @@
-name: '${name}'
+name: 'KunoRconShield'
 version: '${version}'
-main: '${main}'
+main: 'com.KiKi.KunoRconShield.KunoRconShield'
 api-version: 1.13
-load: POSTWORLD
-authors: [ YufiriaMazenta ]
+authors: [ KiKi-XC ]
 folia-supported: true
