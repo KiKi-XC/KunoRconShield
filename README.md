@@ -1,5 +1,5 @@
-## CrypticLibExample
+## KunoRconShield
 
 ### 简介
 
-基于CrypticLib的模板项目，```gradle shadowJar```进行构建
+Bukkit Rcon防爆破插件:半成品
